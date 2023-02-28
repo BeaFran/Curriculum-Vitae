@@ -1,0 +1,116 @@
+h1
+{
+	font-family:'Kalam','cursive';
+	display: flex;
+	justify-content: center;
+
+	border:1px solid orange;
+	margin-top: 40 px;
+	margin-bottom:20 px;
+	margin-left: 10 px;
+	margin-right: 10 px;
+	padding: 30 px 15px 15px 20 px;
+	font-weight: bold;
+	
+}
+h2 {
+	font-family: Verdana;
+	font-size: 50 px;
+	color: blue;
+	}
+	td 
+	{
+		font-family:'Lucida Sans';
+		display: flex;
+		justify-content: center;
+		
+	}
+	h3{
+		font-family:'Lucida Sans';
+		border: 1 px solid orange;
+	}
+
+p
+{
+	margin-left:30px;
+	font-size: 20px;
+	text-align: justify;
+}
+a
+{
+	border: 10px;
+	font-size: 42px;
+	font-family: Calibri;
+	text-decoration:none; 
+	color: yellow;
+	padding:4px;"
+	
+}
+.regreso
+{
+	border: 10px;
+	font-size: 42px;
+	font-family: Calibri;
+	text-decoration:none; 
+	color: blue;
+	padding:4px;"
+}
+form
+{
+	border: 2px solid  black;
+	width: 70%;
+	height: 20%;
+	background: #94C2ED;
+
+}
+
+textarea
+{
+	width: 80%;
+	height: 240 px;
+}
+button
+{
+	padding: 4px;
+	border: 2px solid black;
+	font-family: 'Gill Sans';
+	font-size: 14px;
+	font-weight: bold;
+}
+#identidad
+{
+	font-family:Georgia;
+	display: flex;
+	justify-content: center;
+}
+
+
+table
+{
+		border: 1px solid black;
+		background:white;
+}
+
+td, th
+{
+	padding:10px;
+	padding-right:40px;
+	background:yellow;
+}
+.celda_video
+{
+	background:red;
+}
+.celda_video2
+{
+	background:orangered;
+}
+.facultad
+{
+	height: 30%;
+	width: 30%;
+	padding: 10px; 
+	margin: 10px; 
+	border: 6px solid #BD6777; 
+	float: right;
+}
